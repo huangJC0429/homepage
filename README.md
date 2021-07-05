@@ -1,2 +1,0 @@
-# homepage
-Jincheng Huang Homepage
